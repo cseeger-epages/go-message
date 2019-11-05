@@ -1,4 +1,4 @@
-module github.com/emersion/go-message
+module github.com/cseeger-epages/go-message
 
 go 1.12
 
